@@ -1,4 +1,4 @@
-# Modern Real Estate Platform - Next.js 15
+# Modern Real Estate Platform - Next.js
 
 ![Real Estate Platform](public/assets/preview.png)
 
